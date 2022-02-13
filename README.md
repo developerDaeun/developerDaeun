@@ -37,7 +37,3 @@
 - [Detectron](https://github.com/developerDaeun/Detectron)
 - [YoutubeMemoWeb](https://github.com/developerDaeun/YoutubeMemoWeb)
 - [Metamodel]
-
-## Interesting
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
