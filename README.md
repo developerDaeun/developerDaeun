@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=DaeunKim&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=DaeunKim&fontSize=90&animation=twinkling)
 
 ![developerDaeun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerDaeun&theme=dark&show_icons=true)
 
