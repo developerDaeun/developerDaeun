@@ -32,7 +32,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Projects
-- ShakeUp
+- [ShakeUp](https://github.com/developerDaeun/shakeup)
+- [FindmyBabyInfo](https://github.com/developerDaeun/FindmyBabyInfo)
+- [Detectron](https://github.com/developerDaeun/Detectron)
+- [YoutubeMemoWeb](https://github.com/developerDaeun/YoutubeMemoWeb)
+- [Metamodel]
 
 ## Interesting
 - Spring
