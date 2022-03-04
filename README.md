@@ -1,6 +1,6 @@
 ![developerDaeun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerDaeun&theme=dark&show_icons=true)
 
-![[Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdms4213)](https://solved.ac/ekdms4213)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdms4213)(https://solved.ac/ekdms4213)
 
 # Tech Stack
 ## Languages
