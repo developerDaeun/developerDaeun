@@ -20,6 +20,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## :notebook:Projects
+- [향해](https://github.com/developerDaeun/hyanghae)
 - [shakeup](https://github.com/developerDaeun/shakeup)
 - [MetaModel](https://github.com/developerDaeun/MetaModel)
 - [FindmyBabyInfo](https://github.com/developerDaeun/FindmyBabyInfo)
