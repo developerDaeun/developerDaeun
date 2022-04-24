@@ -2,7 +2,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekdms4213)](https://solved.ac/ekdms4213)
 
-# 포트폴리오
+# 👩‍🦱 포트폴리오
 [포트폴리오](https://www.notion.so/d1566d0b1a8d4e988b2ff154d0ea53c7)
 
 # Tech Stack
