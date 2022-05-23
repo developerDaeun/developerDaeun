@@ -23,10 +23,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## :notebook:Projects
+- [포켓프리지](https://github.com/developerDaeun/pocket_fridge)
 - [향해](https://github.com/developerDaeun/hyanghae)
 - [shakeup](https://github.com/developerDaeun/shakeup)
-- [MetaModel](https://github.com/developerDaeun/MetaModel)
 - [FindmyBabyInfo](https://github.com/developerDaeun/FindmyBabyInfo)
+- [MetaModel](https://github.com/developerDaeun/MetaModel)
 - [yolo](https://github.com/developerDaeun/yolo)
 - [Detectron](https://github.com/developerDaeun/Detectron)
 - [YoutubeMemoWeb](https://github.com/developerDaeun/YoutubeMemoWeb)
